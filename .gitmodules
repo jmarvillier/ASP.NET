@@ -1,0 +1,4 @@
+[submodule "AspNet_Learning_HelloWorldClient"]
+	path = AspNet_Learning_HelloWorldClient
+	url = https://github.com/jmarvillier/AspNet_Learning_HelloWorldClient.git
+	branch = master
